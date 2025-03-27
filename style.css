@@ -28,7 +28,7 @@
 
 body {
 
-
+    height: 100vh;
     background-color: var(--stoneOne);
     display: flex;
     justify-content: center;
