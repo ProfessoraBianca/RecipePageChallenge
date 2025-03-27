@@ -57,9 +57,9 @@ Build out this recipe page and get it looking as close to the design as possible
 
   
 
-- Solution URL: [GitHub](https://github.com/ProfessoraBianca/SocialLinksChallenge)
+- Solution URL: [GitHub](https://github.com/ProfessoraBianca/RecipePageChallenge)
 
-- Live Site URL: [Social Links Challenge Site](https://social-links-challenge-sage.vercel.app/)
+- Live Site URL: [Recipe Page Challenge Site](https://recipe-page-challenge-gamma.vercel.app/)
 
   
 
